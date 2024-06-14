@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Array
 |  |
 | ------- |
+| [0943-sum-of-subarray-minimums](https://github.com/Aiswarya-Siva/https-github.com-Aiswarya-Siva-Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Aiswarya-Siva/https-github.com-Aiswarya-Siva-Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 # Greedy
 |  |
@@ -18,3 +19,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Aiswarya-Siva/https-github.com-Aiswarya-Siva-Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0943-sum-of-subarray-minimums](https://github.com/Aiswarya-Siva/https-github.com-Aiswarya-Siva-Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+# Stack
+|  |
+| ------- |
+| [0943-sum-of-subarray-minimums](https://github.com/Aiswarya-Siva/https-github.com-Aiswarya-Siva-Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0943-sum-of-subarray-minimums](https://github.com/Aiswarya-Siva/https-github.com-Aiswarya-Siva-Leetcode/tree/master/0943-sum-of-subarray-minimums) |
